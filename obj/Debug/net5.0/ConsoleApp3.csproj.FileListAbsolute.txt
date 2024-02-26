@@ -1,0 +1,16 @@
+/home/user/Загрузки/3-3.1-master/ConsoleApp3/obj/Debug/net5.0/ConsoleApp3.csproj.AssemblyReference.cache
+/home/user/Загрузки/3-3.1-master/ConsoleApp3/obj/Debug/net5.0/ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Загрузки/3-3.1-master/ConsoleApp3/obj/Debug/net5.0/ConsoleApp3.AssemblyInfoInputs.cache
+/home/user/Загрузки/3-3.1-master/ConsoleApp3/obj/Debug/net5.0/ConsoleApp3.AssemblyInfo.cs
+/home/user/Загрузки/3-3.1-master/ConsoleApp3/obj/Debug/net5.0/ConsoleApp3.csproj.CoreCompileInputs.cache
+/home/user/Загрузки/3-3.1-master/ConsoleApp3/bin/Debug/net5.0/ConsoleApp3
+/home/user/Загрузки/3-3.1-master/ConsoleApp3/bin/Debug/net5.0/ConsoleApp3.deps.json
+/home/user/Загрузки/3-3.1-master/ConsoleApp3/bin/Debug/net5.0/ConsoleApp3.runtimeconfig.json
+/home/user/Загрузки/3-3.1-master/ConsoleApp3/bin/Debug/net5.0/ConsoleApp3.runtimeconfig.dev.json
+/home/user/Загрузки/3-3.1-master/ConsoleApp3/bin/Debug/net5.0/ConsoleApp3.dll
+/home/user/Загрузки/3-3.1-master/ConsoleApp3/bin/Debug/net5.0/ref/ConsoleApp3.dll
+/home/user/Загрузки/3-3.1-master/ConsoleApp3/bin/Debug/net5.0/ConsoleApp3.pdb
+/home/user/Загрузки/3-3.1-master/ConsoleApp3/obj/Debug/net5.0/ConsoleApp3.dll
+/home/user/Загрузки/3-3.1-master/ConsoleApp3/obj/Debug/net5.0/ref/ConsoleApp3.dll
+/home/user/Загрузки/3-3.1-master/ConsoleApp3/obj/Debug/net5.0/ConsoleApp3.pdb
+/home/user/Загрузки/3-3.1-master/ConsoleApp3/obj/Debug/net5.0/ConsoleApp3.genruntimeconfig.cache
